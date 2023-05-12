@@ -3,7 +3,7 @@ $(document).ready(function() {
   $('#currentDay').text(dayjs().format('MMMM D, YYYY'));
 
   // Create time blocks
-  for (let i = 0; i < 24; i++) {
+  for (let i = 8; i < 18; i++) {
     let timeBlock = createHourlyTimeBlock(i);
     $('#time-blocks').append(timeBlock);
   }
@@ -21,7 +21,8 @@ $(document).ready(function() {
     let newTimeBlock = $('<div>').addClass('row time-block').attr('id', 'hour-' + hour);
 
     // Create hour element
-    let hourEl = $('<div>').addClass('col-2 col-md-1 hour text-center py-3').text(moment(hour, 'H').format('hA'));
+    let hourEl = $('<div>').addClass('col-2 col-md-1 hour text-center py-3').text(dayjs().hour(hour).format('hA'));
+
 
     // Create textarea element
     let textEl = $('<textarea>').addClass('col-8 col-md-10 description').attr('rows', 3);
