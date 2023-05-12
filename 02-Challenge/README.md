@@ -14,13 +14,15 @@ This application uses the Day.js library to work with date and time.
 - Upon refreshing the page, the saved events persist
 
 ## Mock-Up
-The following animation demonstrates the application functionality:
+Below is a screenshot demonstrating the application's functionality:
 
-[img](02-Challenge\Assets\Screenshot 2023-05-12 114456.png)
+![Application Screenshot](https://github.com/novasm55/Workday-Scheduler/blob/d396bc0b334b100bac6fbc1e2a98d4d421754b0c/02-Challenge/Assets/Screenshot%202023-05-12%20114456.png)
 
 
 ## Live URL
-*Insert the live URL of your app here*
+For a full interactive experience, visit the deployed application at the live URL below.
+
+[URL]()
 
 ## Repository
 All of the application code is stored in this repository: https://github.com/novasm55/work-day-scheduler
