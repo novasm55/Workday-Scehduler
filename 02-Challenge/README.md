@@ -16,15 +16,8 @@ This application uses the Day.js library to work with date and time.
 ## Mock-Up
 The following animation demonstrates the application functionality:
 
-*Insert your GIF animation here*
+[img](02-Challenge\Assets\Screenshot 2023-05-12 114456.png)
 
-## Grading Requirements
-This Challenge is graded based on the following criteria:
-
-- Technical Acceptance Criteria: 40%
-- Deployment: 32%
-- Application Quality: 15%
-- Repository Quality: 13%
 
 ## Live URL
 *Insert the live URL of your app here*
@@ -39,6 +32,3 @@ Michael Novas - Fullstack Engineer
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgments
-*Insert any acknowledgments here (optional)*
