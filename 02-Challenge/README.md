@@ -22,7 +22,7 @@ Below is a screenshot demonstrating the application's functionality:
 ## Live URL
 For a full interactive experience, visit the deployed application at the live URL below.
 
-[URL]()
+[URL](https://novasm55.github.io/Workday-Scheduler/)
 
 ## Repository
 All of the application code is stored in this repository: https://github.com/novasm55/work-day-scheduler
